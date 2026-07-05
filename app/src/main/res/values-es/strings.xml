@@ -11,7 +11,7 @@
     <string name="action_clear_all_data">Restablecer todos los datos</string>
     <string name="action_clear_all_data_description">Restablecer todo - úselo con cuidado</string>
     <string name="action_clear_cache">Limpiar caché</string>
-    <string name="action_clear_everything">limpiar todo</string>
+    <string name="action_clear_everything">Limpiar todo</string>
     <string name="action_clear_site_data">Limpiar datos del sitio</string>
     <string name="action_close">Cerrar</string>
     <string name="action_copy">Copiar</string>
@@ -123,8 +123,8 @@
     <string name="msg_camera_and_microphone_enabled">Cámara y micrófono habilitados</string>
     <string name="msg_camera_enabled">Cámera habilitada</string>
     <string name="msg_changes_saved">Cambios guardados</string>
-    <string name="msg_clear_all_cache_confirmation">Eliminar datos web temporales.\nEsto podría cerrar sesión en los sitios.</string>
-    <string name="msg_clear_all_data_confirmation">Eliminar caché, cookies, historial y datos de sesión…\nEsto no se puede revertir.</string>
+    <string name="msg_clear_all_cache_confirmation">Eliminar los archivos web temporales.\nEs posible que se cierre la sesión en algunos sitios.</string>
+    <string name="msg_clear_all_data_confirmation">Eliminar caché, cookies, historial y datos de sesión…\nNo se puede deshacer.</string>
     <string name="msg_clear_site_data_warning">Eliminará cookies, almacenamiento local y datos de sesión solo para %1$s. \nPuede cerrar sesión en este sitio.\n\nOtros sitios no se verán afectados.</string>
     <string name="msg_custom_injection">Nota: Los cambios se aplicarán al recargar. Añade o inyecta JavaScript/CSS personalizado en cada servicio.</string>
     <string name="msg_domain_update_success">Reglas de dominio actualizadas</string>
@@ -177,8 +177,8 @@
     <string name="setting_manage_ai_services_description">Habilitar, deshabilitar y reordenar servicios de IA</string>
     <string name="setting_memory_management">Gestión de memoria</string>
     <string name="setting_memory_management_description">Controla la cantidad de servicios de IA que se ejecutan simultáneamente</string>
-    <string name="setting_pinch_to_zoom">Zoom con pinching</string>
-    <string name="setting_pinch_to_zoom_description">Permite acercarse y alejarse de las páginas web con el gesto de pinching</string>
+    <string name="setting_pinch_to_zoom">Pellizcar para hacer zoom</string>
+    <string name="setting_pinch_to_zoom_description">Acercar y alejar páginas web con el gesto de pellizcar</string>
     <string name="setting_restore_last_ai">Cargar la última IA abierta</string>
     <string name="setting_restore_last_ai_description">Abre el último asistente utilizado al iniciar la aplicación</string>
     <string name="setting_theme">Tema</string>
@@ -228,7 +228,7 @@
     <string name="msg_enable_record_mode">Activar modo de grabación</string>
     <string name="msg_no_suitable_app_found">No se encontró una aplicación adecuada</string>
     <string name="msg_restart_required">Es necesario reiniciar para que los cambios tengan efecto.</string>
-    <string name="msg_set_proxy">Configurar proxy (Esta funcionalidad es experimental, podría ser inestable)</string>
+    <string name="msg_set_proxy">Configurar proxy (esta funcionalidad es experimental, podría ser inestable)</string>
     <string name="msg_short_desc">¿Por qué quieres esta IA? ¿Alguna funcionalidad especial?</string>
     <string name="msg_tell_which_ai">Cuéntanos que IA te gustaría que esté en AI Hub.</string>
     <string name="title_quick_reminder">Recordatorio rápido</string>
