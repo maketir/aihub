@@ -259,7 +259,7 @@
     <string name="onboarding_dialog_login_note_desc">Wybranie jednej opcji odpowiednio filtruje usługi. Pozostawienie pustej opcji powoduje włączenie obu.</string>
     <string name="onboarding_dialog_login_not_required">Nie Potrzebne –</string>
     <string name="onboarding_dialog_login_not_required_desc">Możesz użyć tego serwisu bez zalogowania się.</string>
-    <string name="onboarding_dialog_login_required">Potrzebne -</string>
+    <string name="onboarding_dialog_login_required">Wymagane –</string>
     <string name="onboarding_dialog_login_required_desc">Musisz mieć konto, aby używać z tych usług.</string>
     <string name="onboarding_dialog_pricing_title">Opcje cenowe</string>
     <string name="onboarding_dialog_privacy_avoid">Unikaj –</string>
@@ -277,7 +277,7 @@
     <string name="onboarding_auto_enable_label">Automatyczne włączanie nowych usług</string>
     <string name="onboarding_button_continue">Kontynuuj</string>
     <string name="onboarding_dialog_login_title">Wymagane logowanie</string>
-    <string name="onboarding_dialog_pricing_free">Bezpłatny -</string>
+    <string name="onboarding_dialog_pricing_free">Darmowe –</string>
     <string name="onboarding_dialog_pricing_free_desc">Bezpłatne, w pełni dostępne.</string>
     <string name="onboarding_dialog_pricing_freemium">Freemium –</string>
     <string name="onboarding_dialog_pricing_freemium_desc">Podstawowe funkcje są bezpłatne, natomiast funkcje premium wymagają płatności.</string>
@@ -331,4 +331,7 @@
     <string name="onboarding_info_bullet3">• Gotowe w kilka sekund</string>
     <string name="setting_multiple_default_ai">Wiele domyślnych AI</string>
     <string name="onboarding_filter_privacy">Prywatność</string>
+    <string name="onboarding_dialog_pricing_paid">Płatne –</string>
+    <string name="onboarding_dialog_privacy_neutral">Neutralne –</string>
+    <string name="onboarding_filter_pricing">Cena</string>
 </resources>
