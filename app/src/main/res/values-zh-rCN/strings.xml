@@ -223,4 +223,7 @@
     <string name="title_quick_reminder">温馨提示</string>
     <string name="desc_email_method">我们将通过邮件向你发送专属提交直达链接</string>
     <string name="desc_github_issue">在我们的代码仓库上新建一个问题工单（需拥有GitHub账号）</string>
+    <string name="action_apply">应用</string>
+    <string name="action_clear_filters">清空过滤条件</string>
+    <string name="action_done">完成</string>
 </resources>
