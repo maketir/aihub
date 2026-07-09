@@ -226,4 +226,19 @@
     <string name="action_apply">应用</string>
     <string name="action_clear_filters">清空过滤条件</string>
     <string name="action_done">完成</string>
+    <string name="action_view_details">详细信息</string>
+    <string name="filter_category">类别</string>
+    <string name="filter_favorites">收藏夹</string>
+    <string name="filter_keep_one_hint">确保选择至少一个选项。</string>
+    <string name="filter_login_required">需要登录</string>
+    <string name="filter_price">价格</string>
+    <string name="filter_privacy">隐私</string>
+    <string name="info">信息</string>
+    <string name="label_login_not_required">未登录</string>
+    <string name="label_login_not_required_short">未登录</string>
+    <string name="label_login_required_short">登录</string>
+    <string name="label_pricing">定价</string>
+    <string name="label_yes">是</string>
+    <string name="msg_error_clearing_cache">未能清除缓存</string>
+    <string name="msg_select_service_to_move">选择需迁移的服务</string>
 </resources>
