@@ -321,7 +321,7 @@
     <string name="update_new_categories">Dodano nowe kategorie (%1$d):</string>
     <string name="update_no_changes">Nie wykryto żadnych zmian. Już zaktualizowane.</string>
     <string name="update_removed_services">Usunięto %1$d usług:</string>
-    <string name="update_result_title">Aktualizuj wynik</string>
+    <string name="update_result_title">Wynik aktualizacji</string>
     <string name="onboarding_dialog_privacy_neutral_desc">Usługi ze standardową polityką prywatności.</string>
     <string name="onboarding_filters_hidden_desc">Usługi możesz włączyć ręcznie później w Ustawieniach.</string>
     <string name="onboarding_filters_hidden_title">Filtry są ukryte, ponieważ automatyczne włączanie jest wyłączone.</string>
